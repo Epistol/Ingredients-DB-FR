@@ -20,5 +20,5 @@ Après que vous ayez créé votre base de données, il suffit d'importer l'un de
 
 ## License
 
-
+Gratuite :)
 
