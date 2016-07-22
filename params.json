@@ -1,0 +1,6 @@
+{
+  "name": "Ingredients-db-fr",
+  "tagline": "Une DB en français d'ingrédients, complet le plus possible (s'il reste des traces d'autres langages, à corriger ;)",
+  "body": "# Ingredients-DB-FR\r\n![alt text](https://raw.githubusercontent.com/Epistol/Ingredients-DB-FR/master/logo.png \"Logo Ingredients-DB-FR\")\r\n\r\nUne DB en français d'ingrédients, complet le plus possible (s'il reste des traces d'autres langages, à corriger ;)\r\n\r\n## Source\r\n[Open Food Facts.org](http://fr.openfoodfacts.org/) qui délivre 58935 références dans toutes les langues. \r\nAprès un nettoyage intense, il en reste 19595 (pour le moment).\r\n\r\n## Comment ça fonctionne ? \r\n\r\nAprès que vous ayez créé votre base de données, il suffit d'importer l'un des fichiers proposés qui va créer une table de type : \r\n\r\n| id_ingredient        |  nom_ingredient          | \r\n| ------------- |:-------------:| \r\n| 1      | Sucre | \r\n| 2      | Sel | \r\n| ...      | etc | \r\n\r\n\r\n## License\r\n\r\nGratuite :)\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
